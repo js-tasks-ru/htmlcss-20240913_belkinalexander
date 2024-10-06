@@ -1,0 +1,5 @@
+.footer {
+    flex: 0 1 auto;
+    background: green;
+    padding: 0 165px;
+}
